@@ -1,0 +1,9 @@
+{
+  "name": "friend-wiki-docs",
+  "version": "1.0.0",
+  "description": "An friend wiki of HHH2309",
+  "scripts": {
+    "build": "source venv/bin/activate && mkdocs build"
+  },
+  "author": "HHH2309"
+}
