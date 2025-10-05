@@ -1,1 +1,3 @@
 site_name: friend-wiki-docs
+theme:
+  name: material
